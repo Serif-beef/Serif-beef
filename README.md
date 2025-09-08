@@ -41,5 +41,6 @@
 
 <br clear="both">
 
-<!-- 🐍 Snake animation -->
-![Snake animation](https://raw.githubusercontent.com/Serif-beef/Serif-beef/output/snake.svg)
+<img src="https://raw.githubusercontent.com/Serif-beef/Serif-beef/output/snake.svg" alt="Snake animation" />
+
+###
