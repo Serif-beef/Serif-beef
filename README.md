@@ -13,6 +13,8 @@
 
 ###
 
+<h3 align="left">🚀 Minha linguagem favorita é <span style="color:#3776AB">Python 🐍</span></h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -39,6 +41,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Serif-beef/Serif-beef/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- 🐍 Snake animation -->
+![Snake animation](https://raw.githubusercontent.com/Serif-beef/Serif-beef/output/snake.svg)
