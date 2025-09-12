@@ -38,9 +38,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Serif-beef/Serif-beef/output/snake.svg" alt="Snake animation" />
-
-###
