@@ -1,4 +1,4 @@
-<h1> HI THERE, I'M ARIEL JAKS 👋</h1> 
+<h1>👋 HI THERE, I'M ARIEL JAKS </h1> 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img height="150" src="https://ohiofi.com/assets/nyan.gif"/>
