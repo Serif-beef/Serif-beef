@@ -2,7 +2,7 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
   <img height="150" src="https://ohiofi.com/assets/nyan.gif"/>
-  <p style="margin: 0; padding: 0;">Sou um estudante de TI que está começando a me aventurar no mundo da programação.</p>
+  <p style="margin: 0; padding: 0;">Sou um estudante de tecnologia que está começando a me aventurar no mundo da programação.</p>
 </div>
 
 <h2>💻 Tecnologias que estou aprendendo</h2>
