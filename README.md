@@ -25,7 +25,7 @@
 
 <h2>🚀 Estatísticas Do GitHub</h2>
 
-![Serif-beef's Stats](https://github-readme-stats.vercel.app/api?username=Serif-beef&show_icons=true&theme=transparent&locale=pt-br&custom_title=Esstatísticas%20Gerais&card_width=600)
+![Serif-beef's Stats](https://github-readme-stats.vercel.app/api?username=Serif-beef&show_icons=true&theme=transparent&locale=pt-br&custom_title=Esstatísticas%20Gerais&card_width=400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serif-beef&theme=transparent&locale=pt-br&hide_progress=true&card_width=400)
 
 
