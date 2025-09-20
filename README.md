@@ -1,7 +1,7 @@
 <h1>👋 HI THERE, I'M ARIEL JAKS </h1> 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img width="896" height="896" alt="image" src="https://github.com/user-attachments/assets/a1e80a2d-7b74-4734-a7d3-ccb7e8311abd" />
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a1e80a2d-7b74-4734-a7d3-ccb7e8311abd" />
   <p style="margin: 0; padding: 0;">Sou um estudante de tecnologia que está começando a me aventurar no mundo da programação.</p>
 </div>
 
