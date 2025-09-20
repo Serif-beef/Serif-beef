@@ -1,8 +1,12 @@
 <h1> HI THERE, I'M ARIEL JAKS 👋</h1> 
 
-<img align="left" height="150" src="https://ohiofi.com/assets/nyan.gif"/>
+<div class="flex-container" justify-content="space-between">
+  <div><img align="left" height="100" src="https://ohiofi.com/assets/nyan.gif"/></div>
+  <div><p>Sou um estudante de TI que está começando a me aventurar no mundo da programação.</p></div>
+</div>
 
-<h2> Sou um estudante de TI que está começando a me aventurar no mundo da programação.</h2>
+<br clear="both"/>
+
 
 <h2>💻 Tecnologias que estou aprendendo</h2>
 
