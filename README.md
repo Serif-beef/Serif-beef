@@ -1,7 +1,7 @@
 <h1>👋 HI THERE, I'M ARIEL JAKS </h1> 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img height="150" src="https://ohiofi.com/assets/nyan.gif"/>
+  <img height="150" src="[https://ohiofi.com/assets/nyan.gif](https://octodex.github.com/)"/>
   <p style="margin: 0; padding: 0;">Sou um estudante de tecnologia que está começando a me aventurar no mundo da programação.</p>
 </div>
 
